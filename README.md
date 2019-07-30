@@ -22,7 +22,7 @@ Replace com.something.whatever.appname with the package name you acquired from p
 
 
 ```sh
-$  ImageView mailIcon = (ImageView) findViewById(R.id.imageViewEmail);
+ ImageView mailIcon = (ImageView) findViewById(R.id.imageViewEmail);
         mailIcon.setImageDrawable(getActivityIcon(this,"com.something.whatever.appname","com.something.whatever.appname.MainActivity"));
 ```
 
