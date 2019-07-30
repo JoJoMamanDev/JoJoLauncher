@@ -39,4 +39,12 @@ Paste the following code under  'Button Actions' comment
 ```
 
 #### ContentMain.xml
-You will need to create an imageView with a Height & Width of 75dp, Then in the imageView onClick you shuld select your button function you created in the previous step. 
+
+* Within ContentMain.xml
+You will need to create an imageView with a Height & Width of 75dp, Then in the imageView onClick you shuld select your button function you created in the previous step.
+
+** You will need to repeat this step within ContentMain.xml (land)
+
+
+
+
