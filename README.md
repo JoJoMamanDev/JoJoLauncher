@@ -16,7 +16,7 @@
 * Package name will be in the format com.something.whatever
 * You will need both the long and short versions 
 
-Paste the following code in MainActivity.java under the comment 'Set Icons'. 
+Paste the following code in MainActivity.java under the comment 'Set Icons'.
 Replace com.something.whatever.appname with the package name you acquired from previous step 
 
 
