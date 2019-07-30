@@ -73,8 +73,9 @@ public class MainActivity extends AppCompatActivity {
 
 
         // ScreenConnect Control App
-        ImageView controlIcon = (ImageView) findViewById(R.id.imageViewControl);
-        controlIcon.setImageDrawable(getActivityIcon(this,"com.screenconnect.androidclient","com.screenconnect.androidclient.WebActivity"));
+
+
+        
     }
 
     /// After User Has Navigated Away From JoJo Launcher We Need To Re-Hide StatusBar, So We Call OnResume ///
